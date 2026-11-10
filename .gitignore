@@ -1,5 +1,1 @@
-node_modules
-.next
-out
-.env*
-!.env.example
+node_modules\n.next\n.env.local\n.vercel\n
